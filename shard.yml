@@ -1,0 +1,13 @@
+name: wesoc
+version: 0.1.0
+
+authors:
+  - Jeddi212 <jedediahf51@gmail.com>
+
+targets:
+  wesoc:
+    main: src/wesoc.cr
+
+crystal: 1.5.0
+
+license: MIT
